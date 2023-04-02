@@ -7,7 +7,7 @@ orbs:
 jobs:
   build: 
     executor:
-      name: win/defaul 
+      name: win/defau 
       size: "large" 
  
     steps:
